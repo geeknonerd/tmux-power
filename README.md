@@ -99,6 +99,13 @@ set -g @tmux_power_show_download_speed true
 set -g @tmux_power_prefix_highlight_pos 'LR'
 ```
 
+**[tmux_mode_indicator](https://github.com/dominikduda/tmux_mode_indicator)**
+
+```tmux
+# 'L' for left only, 'R' for right only and 'LR' for both
+set -g @tmux_power_mode_indicator_pos 'LR'
+```
+
 **[tmux-web-reachable](https://github.com/wfxr/tmux-web-reachable)**
 
 ```tmux
